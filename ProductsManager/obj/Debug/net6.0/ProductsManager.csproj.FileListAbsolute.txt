@@ -1,0 +1,15 @@
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\bin\Debug\net6.0\ProductsManager.exe
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\bin\Debug\net6.0\ProductsManager.deps.json
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\bin\Debug\net6.0\ProductsManager.runtimeconfig.json
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\bin\Debug\net6.0\ProductsManager.dll
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\bin\Debug\net6.0\ProductsManager.pdb
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.csproj.AssemblyReference.cache
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.AssemblyInfoInputs.cache
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.AssemblyInfo.cs
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.csproj.CoreCompileInputs.cache
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.dll
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\refint\ProductsManager.dll
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.pdb
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ProductsManager.genruntimeconfig.cache
+C:\Users\adelacruz\Documents\COURSES\PLURALSIGHT\SCOTT ALLEN\MyApp\ProductsManager\ProductsManager\obj\Debug\net6.0\ref\ProductsManager.dll
