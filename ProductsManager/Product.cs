@@ -72,7 +72,20 @@ namespace ProductsManager
 
         public static bool ExecuteOption()
         {
-            int op = Convert.ToInt32(Console.ReadLine());
+            int op = -1;
+            do
+            {
+                Console.Write("> ");
+                try
+                {
+                    op = Convert.ToInt32(Console.ReadLine());
+                    break;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("** INSERT A VALID VALUE **");
+                }
+            } while (true);
             Console.Clear();
 
             switch (op)
@@ -272,7 +285,6 @@ namespace ProductsManager
             {
                 var product = products.Find(p => p.Code == code);
                 PrintProduct(product);
-                Console.WriteLine("=========================\n");
                 return;
             }
 

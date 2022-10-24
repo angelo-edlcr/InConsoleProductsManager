@@ -31,7 +31,6 @@ namespace ProductsManager
                 Console.WriteLine("5. Delete");
                 Console.WriteLine("6. Delete ALL");
                 Console.WriteLine("0. Exit");
-                Console.Write("> ");
 
             } while (Product.ExecuteOption());
         }
