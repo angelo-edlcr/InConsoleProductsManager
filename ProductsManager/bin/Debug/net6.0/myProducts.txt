@@ -1,1 +1,3 @@
 1|gfdghgf|gfhfg|4343|3
+PPD2|New name|catprod|232|33
+PD3PPL|product 3 new|category3plus|345|4
